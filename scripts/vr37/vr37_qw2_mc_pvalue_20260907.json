@@ -1,0 +1,20 @@
+{
+  "observed_incidence": 0.029245767060030785,
+  "B": 1000,
+  "seed": 42,
+  "n_consumers": 11694,
+  "uni_lopo_null_mean_pct": 2.092047203694202,
+  "uni_lopo_null_sd_pct": 0.11281791338443253,
+  "uni_lopo_null_q025_pct": 1.8727552591072345,
+  "uni_lopo_null_q975_pct": 2.308876346844536,
+  "uni_lopo_p_ge_obs": 0.0,
+  "uni_lopo_p_le_obs": 1.0,
+  "uni_lopo_obs_percentile": 1.0,
+  "pop_lopo_null_mean_pct": 3.1896271592269536,
+  "pop_lopo_null_sd_pct": 0.12775913618548537,
+  "pop_lopo_null_q025_pct": 2.9502308876346843,
+  "pop_lopo_null_q975_pct": 3.437660338635198,
+  "pop_lopo_p_ge_obs": 0.983,
+  "pop_lopo_p_le_obs": 0.02,
+  "pop_lopo_obs_percentile": 0.017
+}

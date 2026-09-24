@@ -1,0 +1,78 @@
+{
+  "script": "vr37b_s12_lopo_support_and_agent_cluster_bootstrap_20260908.py",
+  "seed": 42,
+  "B": 1000,
+  "input_rows": 686246,
+  "elapsed_sec": 57.35352659225464,
+  "gates": {
+    "coverage_RoM_full": 1.0289492218225116,
+    "uniform_RoM_g2": 0.9940848304288109,
+    "popshelf_RoM_g2": 1.0293514690426788,
+    "popglobal_RoM_g2": 1.8254654836209114
+  },
+  "S12_2": {
+    "N_pairs_eligible": 86710,
+    "support_size_ratio_mean": 0.8607074995520386,
+    "support_size_ratio_median": 0.8888888888888888,
+    "fully_covered_pairs_pct": 4.320147618498443,
+    "focal_only_pair_items": 550984,
+    "focal_only_share_pct": 87.29787025036678,
+    "pairs_with_any_focal_only_item": 93377,
+    "focal_items_with_support_pct": 12.702129749633215,
+    "focal_items_with_support_pct_multiagent_pairs": 17.435487661574616,
+    "strict_coverage_N": 44416,
+    "strict_coverage_RoM": 0.8486923844491212,
+    "strict_coverage_MoR": 0.9314653283597585,
+    "strict_entropy_N": 21079,
+    "strict_entropy_RoM": 0.7648291013380188,
+    "strict_entropy_MoR": 0.7919386266603706,
+    "orig_coverage_RoM_g2": 1.029668297451946,
+    "orig_entropy_RoM_g2": 0.9940848304288109
+  },
+  "S12_3": {
+    "coverage_RoM_full": {
+      "point": 1.0289492218225116,
+      "consumer_boot_CI": [
+        1.027,
+        1.03
+      ],
+      "agent_cluster_boot_CI": [
+        1.0266329690168872,
+        1.031175436639346
+      ]
+    },
+    "uniform_RoM_g2": {
+      "point": 0.9940848304288109,
+      "consumer_boot_CI": [
+        0.993,
+        0.995
+      ],
+      "agent_cluster_boot_CI": [
+        0.9918307174553265,
+        0.996154068540456
+      ]
+    },
+    "popshelf_RoM_g2": {
+      "point": 1.0293514690426788,
+      "consumer_boot_CI": [
+        1.028,
+        1.031
+      ],
+      "agent_cluster_boot_CI": [
+        1.0276779498374427,
+        1.030925791926234
+      ]
+    },
+    "popglobal_RoM_g2": {
+      "point": 1.8254654836209114,
+      "consumer_boot_CI": [
+        1.819,
+        1.832
+      ],
+      "agent_cluster_boot_CI": [
+        1.8102638327424108,
+        1.839784679010698
+      ]
+    }
+  }
+}
