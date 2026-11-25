@@ -9,4 +9,14 @@ Legacy scripts are retained as historical assets, not part of the verified entry
 
 For local H5 extraction see data_access/README.md. Python 3.13.5 was used for verification.
 
-Version 1.2.0 is a GitHub release candidate based on the archived v1.1.0 (https://doi.org/10.5281/zenodo.24530007). The core numerical pipeline is unchanged and was rerun from archived split CSVs. A fresh upstream H5 download remains unverified. The final release DOI will be assigned after publication.
+## Published Release and Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24542520.svg)](https://doi.org/10.5281/zenodo.24542520)
+
+Version 1.2.0 is the officially published replication package for the revised manuscript submitted to *Information*. The core numerical pipeline was rerun using archived copies of the original transaction-data splits. A fresh upstream H5 download was not independently tested for this release.
+
+- **GitHub Release:** https://github.com/veranolu/relational-channeling-replication/releases/tag/v1.2.0
+- **Version DOI:** https://doi.org/10.5281/zenodo.24542520
+- **Concept DOI:** https://doi.org/10.5281/zenodo.22928747
+
+For reproducibility and citation, please use the version-specific DOI for v1.2.0. Earlier versions remain available for historical traceability.
