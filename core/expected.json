@@ -1,0 +1,29 @@
+{
+  "N": 9095,
+  "strata": 168,
+  "components_in_sample": 1614,
+  "components_full_graph": 8015,
+  "largest_component_sample_n": 1451,
+  "den": 108.26278566612028,
+  "methods": "within-stratum demeaned OLS; component-cluster CR1 sandwich; normal 1.96; fixed LOPO reference (no reference reestimation)",
+  "uniform": {
+    "beta": 0.0550381128885547,
+    "SE_CR1": 0.04567490867591238,
+    "CI95_normal": [
+      -0.03448470811623357,
+      0.14456093389334296
+    ],
+    "n_components": 1614,
+    "mean_E": 1.972977220389843
+  },
+  "local": {
+    "beta": 0.0987879312542818,
+    "SE_CR1": 0.03113227041995498,
+    "CI95_normal": [
+      0.03776868123117004,
+      0.15980718127739357
+    ],
+    "n_components": 1614,
+    "mean_E": 1.9341399173781306
+  }
+}

@@ -1,0 +1,7 @@
+# Candidate dependency ranges only; this is not a tested environment lockfile.
+# The v1.0.0 README states Python 3.13, NumPy 2.x, pandas 2.x, and SciPy 1.x.
+# Matplotlib is added because the public figure scripts import it.
+numpy>=2,<3
+pandas>=2,<3
+scipy>=1,<2
+matplotlib
