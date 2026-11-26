@@ -1,0 +1,34 @@
+[
+  {
+    "weight_amplitude":0.0,
+    "beta":0.098787931254283,
+    "mean_expected_entropy":1.93413991737813,
+    "x_cov_E_scaled":-0.215846203698664,
+    "min_weight":1.0,
+    "contrast":0.043749818365728
+  },
+  {
+    "weight_amplitude":0.25,
+    "beta":0.101744997422525,
+    "mean_expected_entropy":1.931210659137962,
+    "x_cov_E_scaled":-0.218803269866906,
+    "min_weight":0.750001192161686,
+    "contrast":0.04670688453397
+  },
+  {
+    "weight_amplitude":0.5,
+    "beta":0.111507947483929,
+    "mean_expected_entropy":1.922076108632929,
+    "x_cov_E_scaled":-0.228566219928311,
+    "min_weight":0.500002384323372,
+    "contrast":0.056469834595374
+  },
+  {
+    "weight_amplitude":1.0,
+    "beta":0.159517898115091,
+    "mean_expected_entropy":1.877513310982702,
+    "x_cov_E_scaled":-0.276576170559473,
+    "min_weight":0.000004768646745,
+    "contrast":0.104479785226536
+  }
+]

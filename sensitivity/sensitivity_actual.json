@@ -1,0 +1,88 @@
+{
+  "replicates": [
+    {
+      "replicate": 0,
+      "beta_local": 0.159517898115091,
+      "contrast": 0.10447978522653631
+    },
+    {
+      "replicate": 1,
+      "beta_local": 0.14420825484774355,
+      "contrast": 0.08917014195918885
+    },
+    {
+      "replicate": 2,
+      "beta_local": 0.13698831061432795,
+      "contrast": 0.08195019772577325
+    },
+    {
+      "replicate": 3,
+      "beta_local": 0.15508507684343464,
+      "contrast": 0.10004696395487994
+    },
+    {
+      "replicate": 4,
+      "beta_local": 0.1453848674336815,
+      "contrast": 0.0903467545451268
+    },
+    {
+      "replicate": 5,
+      "beta_local": 0.15016244159056982,
+      "contrast": 0.09512432870201512
+    },
+    {
+      "replicate": 6,
+      "beta_local": 0.15396693275203724,
+      "contrast": 0.09892881986348254
+    },
+    {
+      "replicate": 7,
+      "beta_local": 0.14140596520073828,
+      "contrast": 0.08636785231218358
+    },
+    {
+      "replicate": 8,
+      "beta_local": 0.14198598433305398,
+      "contrast": 0.08694787144449928
+    },
+    {
+      "replicate": 9,
+      "beta_local": 0.1661627798529115,
+      "contrast": 0.1111246669643568
+    }
+  ],
+  "amplitudes": [
+    {
+      "weight_amplitude": 0.0,
+      "beta": 0.09878793125428269,
+      "mean_expected_entropy": 1.9341399173781306,
+      "x_cov_E_scaled": -0.21584620369866428,
+      "min_weight": 1.0,
+      "contrast": 0.04374981836572799
+    },
+    {
+      "weight_amplitude": 0.25,
+      "beta": 0.10174499742252484,
+      "mean_expected_entropy": 1.9312106591379619,
+      "x_cov_E_scaled": -0.21880326986690657,
+      "min_weight": 0.7500011921616861,
+      "contrast": 0.04670688453397014
+    },
+    {
+      "weight_amplitude": 0.5,
+      "beta": 0.11150794748392902,
+      "mean_expected_entropy": 1.9220761086329292,
+      "x_cov_E_scaled": -0.22856621992831078,
+      "min_weight": 0.5000023843233723,
+      "contrast": 0.05646983459537432
+    },
+    {
+      "weight_amplitude": 1.0,
+      "beta": 0.159517898115091,
+      "mean_expected_entropy": 1.8775133109827018,
+      "x_cov_E_scaled": -0.27657617055947276,
+      "min_weight": 4.768646744701677e-06,
+      "contrast": 0.10447978522653631
+    }
+  ]
+}

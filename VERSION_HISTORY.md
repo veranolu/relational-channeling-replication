@@ -6,3 +6,6 @@ Adds verified CSV-to-core pipeline for the revised consumer-level analysis, exac
 
 ## v1.2.0 (release candidate)
 Prepares the code-only package for GitHub/Zenodo integration; adds ignore rules for locally generated data, updates documentation and checksums, and records a fresh CSV-to-core verification. No scientific algorithm or frozen result changed. Fresh upstream H5 access remains unverified.
+
+## v1.3.0 (candidate)
+Adds paired reference contrast and slope decomposition to the verified CSV-to-core pipeline. Adds executable Table S17 sensitivity reproduction and coefficient plot generation, with archived aggregate verification targets and explicit scope limitations. No change to original sample or reference algorithms.
