@@ -6,3 +6,6 @@ __pycache__/
 *.csv
 *.csv.gz
 *.parquet
+
+sensitivity/.checkpoint.json
+sensitivity/.checkpoint.tmp
